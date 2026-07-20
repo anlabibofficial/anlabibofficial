@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anlabibofficial
 - 👀 I’m interested in Amazing Programs.
-- 🌱 I’m currently learning C.
 - 📫 How to reach me : Facebook, Insta: anlabibofficial
 
 <!---
